@@ -2,3 +2,4 @@
 - I am from: Hartford, CT
 - One of my favorite foods: pizza
 - One of my hobbies: robotics
+- Favorite color: green
